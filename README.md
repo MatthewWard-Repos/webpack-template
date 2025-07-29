@@ -4,7 +4,7 @@ A template repository for repos using Webpack. Uses webpack-merge to divide the 
 
 Contains:
 -ESLint configuration
--Prettier configuration 
+-Prettier configuration
 -CSS Loader
 -HTML Loader
 -HTML-webpack-plugin
